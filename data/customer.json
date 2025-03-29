@@ -1,0 +1,92 @@
+[
+  {
+    "id": "1",
+    "email": "bdeetlefs0@marketwatch.com",
+    "password": "lN0\u003eDP~#!U`3#dX~",
+    "name": "Betsey Deetlefs",
+    "status": {
+      "isLoggedIn": false
+    }
+  },
+  {
+    "id": "2",
+    "email": "bostrich1@desdev.cn",
+    "password": "cM0}\u003c7Ll",
+    "name": "Blake Ostrich",
+    "status": {
+      "isLoggedIn": true
+    }
+  },
+  {
+    "id": "3",
+    "email": "skennady2@businesswire.com",
+    "password": "bK5)hQZ)b4)*n0D(",
+    "name": "Sullivan Kennady",
+    "status": {
+      "isLoggedIn": false
+    }
+  },
+  {
+    "id": "4",
+    "email": "sjans3@gmpg.org",
+    "password": "kG1+`mZ})YIz)3y",
+    "name": "Stormie Jans",
+    "status": {
+      "isLoggedIn": true
+    }
+  },
+  {
+    "id": "5",
+    "email": "estellman4@posterous.com",
+    "password": "dJ1(do*'u",
+    "name": "Eldridge Stellman",
+    "status": {
+      "isLoggedIn": false
+    }
+  },
+  {
+    "id": "6",
+    "email": "praffels5@jalbum.net",
+    "password": "xZ4~Y|b1sF=h3416",
+    "name": "Paton Raffels",
+    "status": {
+      "isLoggedIn": true
+    }
+  },
+  {
+    "id": "7",
+    "email": "vgreenly6@newyorker.com",
+    "password": "zG3\u0026Igt9",
+    "name": "Vidovic Greenly",
+    "status": {
+      "isLoggedIn": false
+    }
+  },
+  {
+    "id": "8",
+    "email": "ehegel7@npr.org",
+    "password": "zM9,YI*_s1\u0026",
+    "name": "Emmery Hegel",
+    "status": {
+      "isLoggedIn": true
+    }
+  },
+  {
+    "id": "9",
+    "email": "cstill8@seattletimes.com",
+    "password": "hT5)oG/A@",
+    "name": "Chanda Still",
+    "status": {
+      "isLoggedIn": false
+    }
+  },
+  {
+    "id": "10",
+    "email": "asheards9@google.nl",
+    "password": "pV0})rUlJ)QpE2",
+    "name": "Adelina Sheards",
+    "status": {
+      "isLoggedIn": true
+    }
+  }
+]

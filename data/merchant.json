@@ -1,0 +1,17 @@
+[
+  {
+    "id": "1",
+    "name": "Bright Electronics",
+    "address": "Jl. Sudirman No. 123, Jakarta"
+  },
+  {
+    "id": "2",
+    "name": "Fresh Groceries",
+    "address": "Jl. Gatot Subroto No. 45, Bandung"
+  },
+  {
+    "id": "3",
+    "name": "Fashion Avenue",
+    "address": "Jl. Thamrin No. 67, Surabaya"
+  }
+]

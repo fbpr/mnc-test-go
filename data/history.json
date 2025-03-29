@@ -1,0 +1,70 @@
+[
+  {
+    "id": "1",
+    "customer_id": "1",
+    "action": "login",
+    "timestamp": "2025-03-29T08:30:22Z"
+  },
+  {
+    "id": "2",
+    "customer_id": "2",
+    "action": "logout",
+    "timestamp": "2025-03-29T08:45:33Z"
+  },
+  {
+    "id": "3",
+    "customer_id": "3",
+    "transaction_id": "4",
+    "action": "payment",
+    "timestamp": "2025-03-29T10:15:45Z"
+  },
+  {
+    "id": "4",
+    "customer_id": "1",
+    "action": "login",
+    "timestamp": "2025-03-29T17:29:39.418615965Z"
+  },
+  {
+    "id": "5",
+    "customer_id": "1",
+    "action": "login",
+    "timestamp": "2025-03-29T17:30:35.825899099Z"
+  },
+  {
+    "id": "6",
+    "customer_id": "1",
+    "action": "login",
+    "timestamp": "2025-03-29T17:31:21.780278752Z"
+  },
+  {
+    "id": "7",
+    "customer_id": "1",
+    "action": "login",
+    "timestamp": "2025-03-29T17:35:14.545891674Z"
+  },
+  {
+    "id": "8",
+    "customer_id": "1",
+    "transaction_id": "1",
+    "action": "payment",
+    "timestamp": "2025-03-29T17:44:31.899922636Z"
+  },
+  {
+    "id": "9",
+    "customer_id": "1",
+    "action": "logout",
+    "timestamp": "2025-03-29T17:56:13.569335798Z"
+  },
+  {
+    "id": "10",
+    "customer_id": "1",
+    "action": "login",
+    "timestamp": "2025-03-29T18:27:30.082147031Z"
+  },
+  {
+    "id": "11",
+    "customer_id": "1",
+    "action": "logout",
+    "timestamp": "2025-03-29T18:27:33.428832253Z"
+  }
+]

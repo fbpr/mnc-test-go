@@ -96,7 +96,7 @@ A simple API built with Go that allows customers to login, logout, and make paym
 
 #### Process Payment
 
-- **URL**: `/api/v1/transaction/:id/pay`
+- **URL**: `/api/v1/transactions/:id/pay`
 - **Method**: `POST`
 - **URL Parameters**: `id` (Transaction ID)
 - **Request Body**:
